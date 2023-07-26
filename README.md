@@ -1,4 +1,4 @@
-# chess
+# Chess
 ## Map generation
 
 The first stage of the task will be to generate an 8x8 board. The map includes:
